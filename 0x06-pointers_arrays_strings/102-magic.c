@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * main - this is a main fucnction
+ * Return: this return 0
+ */
 int main(void)
 {
 	int n;
